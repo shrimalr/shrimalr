@@ -20,7 +20,7 @@
 
 <h5 align="center">⚠️Info: Currently hibernating. I'll be back online after a <I>git push</I> of coffee. ☕️⚠️</h5>
 
-<p align="justify">Hello👋, I am <a href="">Rajat Shrimal</a>, A Data Specialist with 5 years of experience and a learner in Data Science from Scaler Academy. My work focuses on building scalable data solutions and using data to generate actionable insights that drive revenue and operational efficiency.</p>
+<p align="justify">Hello👋, I am <a href="">Rajat Shrimal</a>, A Data Specialist with 6 years of experience and a learner in Data Science from Scaler Academy. My work focuses on building scalable data solutions and using data to generate actionable insights that drive revenue and operational efficiency.</p>
   
  <img align="right" alt="GIF" src="https://github.com/Rajat-shrimal/knowme_rajat/blob/main/code.gif" width="500" height="320" />
 
